@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-- Industrial Engineering Student at Tecnológico de Costa Rica
+- Computer Engineering Student at Tecnológico de Costa Rica
 - Passionate about Software Development
 - IEEE Student Member
 - Interested in GIS, Data Analysis and Mobile Development
