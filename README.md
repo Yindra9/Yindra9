@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Yindra 👋
 
-<!--
-**Yindra9/Yindra9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- Industrial Engineering Student at Tecnológico de Costa Rica
+- Passionate about Software Development
+- IEEE Student Member
+- Interested in GIS, Data Analysis and Mobile Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💻 Technologies
+
+- Python
+- Java
+- Flutter
+- PostgreSQL
+- Git
+- Docker
+- C#
+
+
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/yindra-pérez-vargas-724b08284
+- Email: yindraperezvargas1@gmail.com
